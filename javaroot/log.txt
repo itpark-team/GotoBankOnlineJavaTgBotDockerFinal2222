@@ -1,0 +1,189 @@
+2022-12-16 18:20:04,835	INFO	main	bot started
+2022-12-16 18:20:13,727	INFO	Thread-2	INPUT: Message 247021014:1416:/start
+2022-12-16 18:20:13,729	INFO	Thread-2	ROUTE: 247021014 CommandStart
+2022-12-16 18:20:13,738	INFO	Thread-2	OUTPUT: 247021014:1416
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 18:20:14,792	INFO	Thread-3	INPUT: Callback 247021014:1417:ButtonMyCardsInMenuMain
+2022-12-16 18:20:14,794	INFO	Thread-3	ROUTE: 247021014 ClickInMenuMain
+2022-12-16 18:20:14,905	INFO	Thread-3	OUTPUT: 247021014:1417
+text=Выберите действие:
+keyboard=МИР 9376437851174408;MasterCard 4429144610222166;VISA 3627938801131594;МИР 309914510451073;Добавить новую;Назад;
+2022-12-16 18:20:16,284	INFO	Thread-4	INPUT: Callback 247021014:1418:ButtonBackInMenuMyCard
+2022-12-16 18:20:16,290	INFO	Thread-4	ROUTE: 247021014 ClickInMenuMyCards
+2022-12-16 18:20:16,295	INFO	Thread-4	OUTPUT: 247021014:1418
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 18:20:18,033	INFO	Thread-5	INPUT: Callback 247021014:1419:GetCurrentExchangeRateInMenuMain
+2022-12-16 18:20:18,037	INFO	Thread-5	ROUTE: 247021014 ClickInMenuMain
+2022-12-16 18:20:18,497	INFO	Thread-5	OUTPUT: 247021014:1419
+text=Текущая дата 17.12.2022
+1 доллар США = 64.6078 руб.
+1 евро = 68.7798 руб.
+Введите /start для возврата в меню
+keyboard=Клавиатуры в данном сообщении нет
+2022-12-16 18:20:21,353	INFO	Thread-6	INPUT: Message 247021014:1421:/start
+2022-12-16 18:20:21,355	INFO	Thread-6	ROUTE: 247021014 CommandStart
+2022-12-16 18:20:21,358	INFO	Thread-6	OUTPUT: 247021014:1421
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 18:23:21,267	INFO	main	bot started
+2022-12-16 18:31:27,413	INFO	main	bot started
+2022-12-16 18:47:56,214	INFO	main	bot started
+2022-12-16 19:48:51,034	INFO	main	bot started
+2022-12-16 19:48:56,559	INFO	Thread-2	INPUT: Message 247021014:1433:/start
+2022-12-16 19:48:56,562	INFO	Thread-2	ROUTE: 247021014 CommandStart
+2022-12-16 19:48:56,568	INFO	Thread-2	OUTPUT: 247021014:1433
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 19:48:59,242	INFO	Thread-3	INPUT: Callback 247021014:1434:ButtonMyCardsInMenuMain
+2022-12-16 19:48:59,245	INFO	Thread-3	ROUTE: 247021014 ClickInMenuMain
+2022-12-16 19:48:59,384	INFO	Thread-3	OUTPUT: 247021014:1434
+text=Выберите действие:
+keyboard=МИР 9376437851174408;MasterCard 4429144610222166;VISA 3627938801131594;МИР 309914510451073;Добавить новую;Назад;
+2022-12-16 19:49:00,741	INFO	Thread-4	INPUT: Callback 247021014:1435:ButtonBackInMenuMyCard
+2022-12-16 19:49:00,743	INFO	Thread-4	ROUTE: 247021014 ClickInMenuMyCards
+2022-12-16 19:49:00,746	INFO	Thread-4	OUTPUT: 247021014:1435
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 19:53:31,004	INFO	main	bot started
+2022-12-16 19:53:36,940	INFO	Thread-2	INPUT: Message 247021014:1437:/start
+2022-12-16 19:53:36,944	INFO	Thread-2	ROUTE: 247021014 CommandStart
+2022-12-16 19:53:36,959	INFO	Thread-2	OUTPUT: 247021014:1437
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 19:53:38,102	INFO	Thread-3	INPUT: Callback 247021014:1438:ButtonMyCardsInMenuMain
+2022-12-16 19:53:38,105	INFO	Thread-3	ROUTE: 247021014 ClickInMenuMain
+2022-12-16 19:53:38,181	INFO	Thread-3	OUTPUT: 247021014:1438
+text=Выберите действие:
+В Вашем списке еще нет карт! Создайте новую карту.
+keyboard=Добавить новую;Назад;
+2022-12-16 19:53:46,819	INFO	Thread-4	INPUT: Callback 247021014:1439:ButtonBackInMenuMyCard
+2022-12-16 19:53:46,823	INFO	Thread-4	ROUTE: 247021014 ClickInMenuMyCards
+2022-12-16 19:53:46,829	INFO	Thread-4	OUTPUT: 247021014:1439
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 19:53:52,677	INFO	Thread-5	INPUT: Callback 247021014:1440:ButtonMyCardsInMenuMain
+2022-12-16 19:53:52,681	INFO	Thread-5	ROUTE: 247021014 ClickInMenuMain
+2022-12-16 19:53:52,685	INFO	Thread-5	OUTPUT: 247021014:1440
+text=Выберите действие:
+В Вашем списке еще нет карт! Создайте новую карту.
+keyboard=Добавить новую;Назад;
+2022-12-16 19:53:54,104	INFO	Thread-6	INPUT: Callback 247021014:1441:ButtonAddNewCardInMenuMyCard
+2022-12-16 19:53:54,106	INFO	Thread-6	ROUTE: 247021014 ClickInMenuMyCards
+2022-12-16 19:53:54,118	INFO	Thread-6	ERROR: Callback 247021014:1441:ButtonAddNewCardInMenuMyCard error=ERROR: relation "payment_systems" does not exist
+  Position: 15
+2022-12-16 19:53:57,578	INFO	Thread-7	INPUT: Message 247021014:1442:/reset
+2022-12-16 19:53:57,581	INFO	Thread-7	ROUTE: 247021014 ClickInMenuMyCards
+2022-12-16 19:53:57,585	INFO	Thread-7	OUTPUT: 247021014:1442
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 19:58:43,929	INFO	main	bot started
+2022-12-16 19:58:48,950	INFO	Thread-2	INPUT: Message 247021014:1444:/start
+2022-12-16 19:58:48,953	INFO	Thread-2	ROUTE: 247021014 CommandStart
+2022-12-16 19:58:48,961	INFO	Thread-2	OUTPUT: 247021014:1444
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 19:58:50,054	INFO	Thread-3	INPUT: Callback 247021014:1445:ButtonMyCardsInMenuMain
+2022-12-16 19:58:50,058	INFO	Thread-3	ROUTE: 247021014 ClickInMenuMain
+2022-12-16 19:58:50,150	INFO	Thread-3	OUTPUT: 247021014:1445
+text=Выберите действие:
+keyboard=МИР 9376437851174408;MasterCard 4429144610222166;VISA 3627938801131594;МИР 309914510451073;Добавить новую;Назад;
+2022-12-16 19:58:51,962	INFO	Thread-4	INPUT: Callback 247021014:1446:ButtonAddNewCardInMenuMyCard
+2022-12-16 19:58:51,969	INFO	Thread-4	ROUTE: 247021014 ClickInMenuMyCards
+2022-12-16 19:58:51,978	INFO	Thread-4	OUTPUT: 247021014:1446
+text=Выберите платёжную систему для карты
+keyboard=МИР;VISA;MasterCard;
+2022-12-16 19:58:52,946	INFO	Thread-5	INPUT: Callback 247021014:1447:CallbackPaymentSystemsId2
+2022-12-16 19:58:52,949	INFO	Thread-5	ROUTE: 247021014 ClickInMenuChoosePaySystemForNewCard
+2022-12-16 19:58:52,981	INFO	Thread-5	ERROR: Callback 247021014:1447:CallbackPaymentSystemsId2 error=ERROR: duplicate key value violates unique constraint "cards_pk"
+  Detail: Key (id)=(1) already exists.
+2022-12-16 19:58:55,132	INFO	Thread-6	INPUT: Callback 247021014:1446:ButtonAddNewCardInMenuMyCard
+2022-12-16 19:58:55,135	INFO	Thread-6	ROUTE: 247021014 ClickInMenuChoosePaySystemForNewCard
+2022-12-16 19:58:55,140	INFO	Thread-6	ERROR: Callback 247021014:1446:ButtonAddNewCardInMenuMyCard error=Ошибка распознавания callBackData
+2022-12-16 19:58:57,272	INFO	Thread-7	INPUT: Message 247021014:1448:/reset
+2022-12-16 19:58:57,275	INFO	Thread-7	ROUTE: 247021014 ClickInMenuChoosePaySystemForNewCard
+2022-12-16 19:58:57,277	INFO	Thread-7	OUTPUT: 247021014:1448
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 19:58:58,548	INFO	Thread-8	INPUT: Callback 247021014:1449:ButtonMyCardsInMenuMain
+2022-12-16 19:58:58,551	INFO	Thread-8	ROUTE: 247021014 ClickInMenuMain
+2022-12-16 19:58:58,557	INFO	Thread-8	OUTPUT: 247021014:1449
+text=Выберите действие:
+keyboard=МИР 9376437851174408;MasterCard 4429144610222166;VISA 3627938801131594;МИР 309914510451073;Добавить новую;Назад;
+2022-12-16 19:59:00,231	INFO	Thread-9	INPUT: Callback 247021014:1450:ButtonAddNewCardInMenuMyCard
+2022-12-16 19:59:00,233	INFO	Thread-9	ROUTE: 247021014 ClickInMenuMyCards
+2022-12-16 19:59:00,236	INFO	Thread-9	OUTPUT: 247021014:1450
+text=Выберите платёжную систему для карты
+keyboard=МИР;VISA;MasterCard;
+2022-12-16 19:59:01,665	INFO	Thread-10	INPUT: Callback 247021014:1451:CallbackPaymentSystemsId1
+2022-12-16 19:59:01,667	INFO	Thread-10	ROUTE: 247021014 ClickInMenuChoosePaySystemForNewCard
+2022-12-16 19:59:01,693	INFO	Thread-10	OUTPUT: 247021014:1451
+text=Ваша новая карта успешно создана
+МИР 6581070038047199
+введите /start для возврата в главное меню
+keyboard=Клавиатуры в данном сообщении нет
+2022-12-16 19:59:04,884	INFO	Thread-11	INPUT: Message 247021014:1453:/start
+2022-12-16 19:59:04,894	INFO	Thread-11	ROUTE: 247021014 CommandStart
+2022-12-16 19:59:04,897	INFO	Thread-11	OUTPUT: 247021014:1453
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 19:59:08,346	INFO	Thread-12	INPUT: Callback 247021014:1454:ButtonMyCardsInMenuMain
+2022-12-16 19:59:08,348	INFO	Thread-12	ROUTE: 247021014 ClickInMenuMain
+2022-12-16 19:59:08,354	INFO	Thread-12	OUTPUT: 247021014:1454
+text=Выберите действие:
+keyboard=МИР 6581070038047199;МИР 9376437851174408;MasterCard 4429144610222166;VISA 3627938801131594;МИР 309914510451073;Добавить новую;Назад;
+2022-12-16 19:59:09,910	INFO	Thread-13	INPUT: Callback 247021014:1455:CallbackCardId2
+2022-12-16 19:59:09,913	INFO	Thread-13	ROUTE: 247021014 ClickInMenuMyCards
+2022-12-16 19:59:09,920	INFO	Thread-13	OUTPUT: 247021014:1455
+text=Выбрана карта
+МИР 6581070038047199
+Баланс: 0.00
+
+Выберите действие с картой
+keyboard=Пополнить баланс;Удалить карту;Назад;
+2022-12-16 19:59:11,696	INFO	Thread-14	INPUT: Callback 247021014:1456:ButtonAddMoneyToBalanceInMenuChooseSpecificCard
+2022-12-16 19:59:11,701	INFO	Thread-14	ROUTE: 247021014 ClickInMenuChooseSpecificCard
+2022-12-16 19:59:11,707	INFO	Thread-14	OUTPUT: 247021014:1456
+text=Введите сумму пополнения (от 1 до 150000)
+keyboard=Клавиатуры в данном сообщении нет
+2022-12-16 19:59:14,520	INFO	Thread-15	INPUT: Message 247021014:1458:10000
+2022-12-16 19:59:14,523	INFO	Thread-15	ROUTE: 247021014 InputIncomeMoneyForSpecificCard
+2022-12-16 19:59:14,538	INFO	Thread-15	OUTPUT: 247021014:1458
+text=Баланс успешно пополнен. Введите /start для возврата в меню
+keyboard=Клавиатуры в данном сообщении нет
+2022-12-16 19:59:15,909	INFO	Thread-16	INPUT: Message 247021014:1460:/start
+2022-12-16 19:59:15,912	INFO	Thread-16	ROUTE: 247021014 CommandStart
+2022-12-16 19:59:15,914	INFO	Thread-16	OUTPUT: 247021014:1460
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 19:59:17,411	INFO	Thread-17	INPUT: Callback 247021014:1461:ButtonMyCardsInMenuMain
+2022-12-16 19:59:17,413	INFO	Thread-17	ROUTE: 247021014 ClickInMenuMain
+2022-12-16 19:59:17,418	INFO	Thread-17	OUTPUT: 247021014:1461
+text=Выберите действие:
+keyboard=МИР 6581070038047199;МИР 9376437851174408;MasterCard 4429144610222166;VISA 3627938801131594;МИР 309914510451073;Добавить новую;Назад;
+2022-12-16 19:59:18,846	INFO	Thread-18	INPUT: Callback 247021014:1462:CallbackCardId2
+2022-12-16 19:59:18,849	INFO	Thread-18	ROUTE: 247021014 ClickInMenuMyCards
+2022-12-16 19:59:18,855	INFO	Thread-18	OUTPUT: 247021014:1462
+text=Выбрана карта
+МИР 6581070038047199
+Баланс: 10000.00
+
+Выберите действие с картой
+keyboard=Пополнить баланс;Удалить карту;Назад;
+2022-12-16 19:59:20,730	INFO	Thread-19	INPUT: Callback 247021014:1463:ButtonBackInMenuChooseSpecificCard
+2022-12-16 19:59:20,736	INFO	Thread-19	ROUTE: 247021014 ClickInMenuChooseSpecificCard
+2022-12-16 19:59:20,745	INFO	Thread-19	OUTPUT: 247021014:1463
+text=Выберите действие:
+keyboard=МИР 6581070038047199;МИР 9376437851174408;MasterCard 4429144610222166;VISA 3627938801131594;МИР 309914510451073;Добавить новую;Назад;
+2022-12-16 19:59:21,863	INFO	Thread-20	INPUT: Callback 247021014:1464:ButtonBackInMenuMyCard
+2022-12-16 19:59:21,866	INFO	Thread-20	ROUTE: 247021014 ClickInMenuMyCards
+2022-12-16 19:59:21,871	INFO	Thread-20	OUTPUT: 247021014:1464
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
+2022-12-16 20:43:57,657	INFO	main	bot started
+2022-12-16 20:44:26,953	INFO	Thread-2	INPUT: Message 247021014:1466:/start
+2022-12-16 20:44:26,956	INFO	Thread-2	ROUTE: 247021014 CommandStart
+2022-12-16 20:44:26,964	INFO	Thread-2	OUTPUT: 247021014:1466
+text=Выберите действие
+keyboard=Мои карты;Курс валют;Перевести деньги;Инструкция;
